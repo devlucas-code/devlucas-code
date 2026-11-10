@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header" width="100%" alt="Blue wave header" />
 </p>
 
-<h1 align="center">Hi, I'm Lucas! 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=900&height=90&lines=Hello,+my+name+is+Lucas!;Information+Systems+Development+student+at+IFSP+Campinas.;Passionate+about+programming+and+technology.;Exploring+Python,+C,+C%23,+and+MySQL.;Always+learning+and+building+new+things." alt="Animated introduction: Hello, my name is Lucas; Information Systems Development student at IFSP Campinas; passionate about programming and technology; exploring Python, C, C#, and MySQL; always learning and building new things." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=900&height=90&lines=Hello,+my+name+is+Lucas!;Information+Systems+Development+student;Learning+Python,+C,+C#+and+MySQL" alt="Hello, my name is Lucas! Information Systems Development student" />
 </p>
 
 <div align="center">
@@ -29,17 +27,26 @@ class Lucas:
 
 ## GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devlucas-code&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9&icon_color=4A90D9&rank_icon=github" alt="GitHub statistics for devlucas-code" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=devlucas-code&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90D9&fire=0047AB&currStreakLabel=4A90D9" alt="GitHub contribution streak for devlucas-code" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/devlucas-code">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devlucas-code&repo=devlucas-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9&icon_color=4A90D9" alt="Profile repository card for devlucas-code" />
-  </a>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9" alt="Most used programming languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=devlucas-code&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9&icon_color=0047AB" alt="GitHub stats for devlucas-code" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=devlucas-code&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90D9&fire=0047AB&currStreakLabel=4A90D9" alt="GitHub streak for devlucas-code" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/devlucas-code/devlucas-code">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=devlucas-code&repo=devlucas-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9&icon_color=0047AB" alt="Profile repository card for devlucas-code" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9" alt="Top languages for devlucas-code" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,7 +69,7 @@ class Lucas:
 ## Featured Projects
 
 ### Educational Analytics System
-An academic extension project designed to support the analysis and monitoring of student progress. Initially developed in C and later migrated to C#, featuring a Windows Forms interface and MySQL database integration.
+An academic extension project designed to support the analysis and monitoring of student progress. Initially developed in C and later migrated to C#, featuring a Windows Forms interface and MySQL integration.
 
 ### Product Registration Automation
 A Python automation project focused on organizing and managing product information. [Explore the project repository](https://github.com/devlucas-code/codigos/tree/main/automacao_python).
