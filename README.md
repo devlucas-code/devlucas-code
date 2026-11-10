@@ -5,13 +5,7 @@
 <h1 align="center">Hi, I'm Lucas! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=900&height=90&lines=Hello,+my+name+is+Lucas!;Information+Systems+Development+student+at+IFSP+Campinas.;Passionate+about+programming+and+technology.;Exploring+Python,+C,+C%23,+and+MySQL.;Always+learning+and+building+new+things." alt="Hello, my name is Lucas! Information Systems Development student at IFSP Campinas. Passionate about programming and technology. Exploring Python, C, C#, and MySQL. Always learning and building new things." />
-</p>
-
-<p align="center">
-  Hello! My name is <strong>Lucas Marion Jacintho</strong>. I'm an Information Systems Development student at IFSP Campinas, passionate about programming, technology, and software development.
-  <br />
-  I'm constantly learning, exploring new technologies, and building projects to improve my skills as a developer.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=900&height=90&lines=Hello,+my+name+is+Lucas!;Information+Systems+Development+student+at+IFSP+Campinas.;Passionate+about+programming+and+technology.;Exploring+Python,+C,+C%23,+and+MySQL.;Always+learning+and+building+new+things." alt="Animated introduction: Hello, my name is Lucas; Information Systems Development student at IFSP Campinas; passionate about programming and technology; exploring Python, C, C#, and MySQL; always learning and building new things." />
 </p>
 
 <div align="center">
@@ -46,8 +40,6 @@ class Lucas:
   </a>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9" alt="Most used programming languages" />
 </p>
-
-<p align="center"><sub>These cards display public GitHub data and may occasionally be affected by third-party service availability or rate limits.</sub></p>
 
 ---
 
