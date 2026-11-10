@@ -2,90 +2,101 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header" alt="Cabeçalho azul em ondas" />
 </p>
 
-<h1 align="center">Lucas Marion Jacintho</h1>
-<p align="center"><strong>Estudante de Análise e Desenvolvimento de Sistemas | IFSP Campinas</strong></p>
-<p align="center">Desenvolvimento de software · Backend · Banco de dados · Automação</p>
+<h1 align="center">Olá, eu sou Lucas! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=900&height=90&lines=Olá,+meu+nome+é+Lucas!;Estudante+de+ADS+no+IFSP+Campinas.;Desenvolvedor+em+constante+evolução.;Explorando+Python,+C,+C%23+e+MySQL.;Apaixonado+por+tecnologia+e+desenvolvimento+de+software." alt="Apresentação animada" />
+</p>
+
+<div align="center">
+  <img width="55%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação" />
+</div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), campus Campinas. Tenho interesse em desenvolvimento de software, programação, backend, bancos de dados e automação de processos.
+```python
+class Lucas:
+    def __init__(self):
+        self.nome = "Lucas Mario Jacintho"
+        self.curso = "Análise e Desenvolvimento de Sistemas"
+        self.instituicao = "IFSP — Campus Campinas"
+        self.foco = ["Desenvolvimento", "Backend", "Banco de Dados"]
+        self.tecnologias = ["Python", "C", "C#", "MySQL"]
+        self.objetivo = "Aprender, desenvolver e evoluir"
 
-Busco aprimorar meus conhecimentos em lógica de programação, estruturas de dados e desenvolvimento de aplicações, transformando o aprendizado em projetos práticos e evoluindo continuamente como profissional de tecnologia.
+    def __str__(self):
+        return "Aprender sempre, evoluir sempre. 🚀"
+```
 
-## Projetos
-
-### Sistema Analítico Educacional — Projeto de Extensão
-- Desenvolvimento de um sistema para análise e acompanhamento da evolução de estudantes.
-- Evolução da aplicação originalmente desenvolvida em C para uma nova versão em C#.
-- Construção da interface gráfica com Windows Forms e integração com MySQL para armazenar e gerenciar informações.
-- Implementação de funcionalidades e aprimoramento da aplicação.
-
-### Automação de Cadastro de Produtos — Python
-- Automação em Python para cadastro de produtos.
-- Criação de processos automatizados e organização de informações.
-- Aplicação de conceitos de lógica de programação.
-
-## Experiência profissional
-
-### Anhanguera Ferramentas — Assistente Comercial de Contratos
-**Abril de 2026 – atual**
-
-Elaboração e acompanhamento de planilhas, gestão de carteira e follow-up de clientes, além do acompanhamento de pedidos, cotações e processos comerciais. Atuação com organização e análise de dados, acompanhamento de demandas e resolução de problemas operacionais.
-
-### Transportadora Rodolimp — Auxiliar Administrativo/Operacional
-**Outubro de 2024 – março de 2026**
-
-Criação e automação de planilhas para processos operacionais, organização e atualização de dados e documentos, acompanhamento de processos internos e suporte à comunicação entre equipes e à tomada de decisões.
-
-## Formação acadêmica
-
-**Instituto Federal de São Paulo (IFSP) — Campus Campinas**  
-Tecnólogo em Análise e Desenvolvimento de Sistemas · Cursando · 2026
-
-## Tecnologias e conhecimentos
-
-**Linguagens**  
-![Python básico](https://img.shields.io/badge/Python-b%C3%A1sico-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
-
-**Banco de dados**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Ferramentas e desenvolvimento**  
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Conhecimentos**  
-Lógica de programação · Estruturas de dados · Programação · Desenvolvimento de aplicações · Automação de processos
-
-## Competências
-
-Raciocínio lógico · Pensamento analítico · Resolução de problemas · Organização · Aprendizado contínuo · Trabalho em equipe · Comunicação
-
-## Idiomas
-
-- **Português:** nativo
-- **Inglês:** básico
-
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devlucas-code&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Estatísticas públicas do GitHub de Lucas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens identificadas nos repositórios públicos de Lucas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devlucas-code&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF&rank_icon=github" alt="Estatísticas públicas do GitHub" />
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=devlucas-code&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90D9&fire=0047AB&currStreakLabel=4A90D9" alt="Sequência de contribuições" />
 </p>
 
-*Os cartões mostram dados públicos e são gerados por um serviço de terceiros. O endpoint público do GitHub Readme Stats funciona sem token para visitantes, mas é compartilhado e pode sofrer limites ou indisponibilidade temporária; as estatísticas não são garantidas em tempo real.*
+<p align="center">
+  <a href="https://github.com/devlucas-code"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=devlucas-code&repo=devlucas-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9" alt="Card do repositório de perfil" /></a>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=FFFFFF" alt="Linguagens mais utilizadas" />
+</p>
 
-## Contato
+<p align="center"><sub>Os cards exibem dados públicos do GitHub e podem ter limites temporários de disponibilidade por serem serviços de terceiros.</sub></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-devlucas--code-0047AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlucas-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Mario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmarionjacintho)
-[![E-mail](https://img.shields.io/badge/E--mail-lucasmrj14%40gmail.com-6B7280?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmrj14@gmail.com)
+---
+
+## 🧰 Tecnologias & ferramentas
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=100&section=footer" alt="Rodapé azul em ondas" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,mysql,git,github,vscode&theme=dark" alt="Python, C, C#, MySQL, Git, GitHub e VS Code" />
+</p>
+
+## 📚 O que estou aprendendo
+
+- 🐍 **Python** — automações e desenvolvimento.
+- ⚙️ **C** — lógica de programação e estruturas de dados.
+- 💜 **C#** — desenvolvimento de aplicações.
+- 🗄️ **MySQL** — banco de dados e consultas.
+- 🛠️ **Desenvolvimento de software** — boas práticas e construção de aplicações.
+
+---
+
+## ✨ Projetos
+
+### 📈 Sistema Analítico Educacional
+Projeto acadêmico de extensão para apoiar a análise e o acompanhamento da evolução de estudantes. A aplicação começou em C e evoluiu para C#, com interface em Windows Forms e integração com MySQL.
+
+### 🤖 Automação de Cadastro de Produtos
+Automação em Python voltada à organização e ao gerenciamento de informações de produtos. [Veja o repositório de códigos](https://github.com/devlucas-code/codigos/tree/main/automacao_python).
+
+---
+
+## 🎯 Meus objetivos
+
+- [ ] Desenvolver projetos cada vez mais completos.
+- [ ] Aprofundar meus conhecimentos em Python e C#.
+- [ ] Evoluir em desenvolvimento backend e APIs REST.
+- [ ] Aprimorar conhecimentos em bancos de dados.
+- [ ] Contribuir com projetos open source.
+- [ ] Construir um portfólio de projetos.
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="https://github.com/devlucas-code"><img alt="GitHub — devlucas-code" src="https://img.shields.io/badge/GitHub-devlucas--code-0047AB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucasmarionjacintho"><img alt="LinkedIn — Lucas Mario" src="https://img.shields.io/badge/LinkedIn-Lucas%20Mario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lucasmrj14@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-lucasmrj14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devlucas-code&color=0047AB&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Contador de visitas ao perfil" />
+</p>
+
+<p align="center"><em>"Aprender sempre, evoluir sempre. 🚀"</em></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=footer" alt="Rodapé azul em ondas" />
 </p>
