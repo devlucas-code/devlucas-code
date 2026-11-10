@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header" alt="Cabeçalho azul em ondas" />
 </p>
 
-<h1 align="center">Lucas Mario Jacintho</h1>
+<h1 align="center">Lucas Marion Jacintho</h1>
 <p align="center"><strong>Estudante de Análise e Desenvolvimento de Sistemas | IFSP Campinas</strong></p>
 <p align="center">Desenvolvimento de software · Backend · Banco de dados · Automação</p>
 
