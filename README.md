@@ -30,23 +30,25 @@ class Lucas:
 <table>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=devlucas-code&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9&icon_color=0047AB" alt="GitHub stats for devlucas-code" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=devlucas-code&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=4A90D9&amp;text_color=C9D1D9&amp;icon_color=0047AB&amp;cache_seconds=86400" alt="GitHub stats for devlucas-code" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=devlucas-code&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90D9&fire=0047AB&currStreakLabel=4A90D9" alt="GitHub streak for devlucas-code" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=devlucas-code&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=4A90D9&amp;fire=0047AB&amp;currStreakLabel=4A90D9" alt="GitHub streak for devlucas-code" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/devlucas-code/devlucas-code">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=devlucas-code&repo=devlucas-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9&icon_color=0047AB" alt="Profile repository card for devlucas-code" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=devlucas-code&amp;repo=devlucas-code&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=4A90D9&amp;text_color=C9D1D9&amp;icon_color=0047AB&amp;cache_seconds=86400" alt="Profile repository card for devlucas-code" />
       </a>
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=C9D1D9" alt="Top languages for devlucas-code" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucas-code&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=4A90D9&amp;text_color=C9D1D9&amp;cache_seconds=86400" alt="Top languages for devlucas-code" />
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>These cards depend on third-party services and shared API limits. If they temporarily fail to load, the service may be rate-limited or unavailable; self-hosting the card services is the reliable option for avoiding shared-instance limits.</sub></p>
 
 ---
 
